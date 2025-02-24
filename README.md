@@ -34,7 +34,7 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 ## Author
 
-[AREK BRIAN ](https://brianportfolio.lighttravelandtour.com/)
+[AREK BRIAN ](https://arekbrian.github.io/)
 
 ## Todo
 1. Add information regarding the usage of script.sh and the responsive breakpoint generator program in node.js
@@ -45,5 +45,3 @@ After downloading, simply edit the HTML and CSS files included with the template
 &copy; <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>
  AREK BRIAN. Code released under the [MIT](LICENSE) license.
 # hotelbest
-
-# hotelbest.github.io
