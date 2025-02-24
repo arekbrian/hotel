@@ -1,4 +1,4 @@
-# hotelbest
+# hotel
 hotelbest is a restaurant website template built with Bootstrap 4. It is fully responsive, fast, accessible and search engine optimized.
 
 ## Features
