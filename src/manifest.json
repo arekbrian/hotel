@@ -1,0 +1,14 @@
+{
+  "name": "AREK HOTEL & Restaurant",
+  "short_name": "ARH",
+  "description": "Free Bootstrap Website Template",
+  "icons": [{
+    "src": "media/brand/logo-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "start_url": "/website-template-3/",
+  "display": "standalone",
+  "background_color": "#f2b632",
+  "theme_color": "#9ed1dd"
+}
