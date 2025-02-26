@@ -44,4 +44,4 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 &copy; <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>
  AREK BRIAN. Code released under the [MIT](LICENSE) license.
-# hotelbest
+# hotelbesttemplate
